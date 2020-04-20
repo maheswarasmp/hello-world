@@ -4,3 +4,4 @@ my name is name
 my mother is amma
 my father is nanna
 my goal is failure
+manammma
